@@ -1,0 +1,16 @@
+{
+    "fr" : "Français",
+    "en" : "Anglais",
+    "es" : "Espagnole",
+    "home" : "Accueil",
+    "SignUp": "S'inscrire",
+    "login": "Se connecter",
+    "Commander":"Commander",
+    "OffresEtService": "Offres et service",
+    "TrajetInternational": "International travel",
+    "DevenirChauffer": "Devenir Chauffeur",
+    "Actualité":"Actualité",
+    "Contact": "Contact",
+    "depart":"LIEU DE DÉPART",
+    "arrive":"LIEU D'ARRIVÉE"
+}

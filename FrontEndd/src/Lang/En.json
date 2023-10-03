@@ -1,0 +1,16 @@
+{
+    "fr" : "Frensh",
+    "en" : "English",
+    "es" : "Spanish",
+    "home" : "Home",
+    "Commander":"Order",
+    "SignUp": "Sign Up",
+    "login": "Login",
+    "OffresEtService": "Offers and service",
+    "TrajetInternational" : "Trajet international",
+    "DevenirChauffer" : "Become a Driver",
+    "Actualité": "News",
+    "Contact": "Contact",
+    "depart":"Pickup address",
+    "arrive":"Dropoff address"
+}
